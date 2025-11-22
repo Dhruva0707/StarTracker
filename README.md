@@ -1,8 +1,6 @@
 # StarTracker
 
-1. Password: De@dman7
-2. Username: Dhruva0707
-3. remote repo address: https://github.com/Dhruva0707/StarTracker.git
+https://github.com/Dhruva0707/StarTracker.git
 
 
 Quick Commands for cmd:
